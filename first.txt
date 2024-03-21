@@ -1,1 +1,4 @@
 This is an information created by Amandeep Raj from Master Branch
+Now we adding some data from Bangalore Branch.
+Here we are putting data.
+And After that we merge it with Master (Local-Branch).
